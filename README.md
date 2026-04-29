@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/i8wlxl.jpg" alt="ᴊᴇꜱᴜꜱ-ᴍᴅ ᴘʀᴇsᴛɪɢᴇ" width="100%">
+  <img src="https://files.catbox.moe/oh9qrt.jpg" alt="ᴊᴇꜱᴜꜱ-ᴍᴅ ᴘʀᴇsᴛɪɢᴇ" width="100%">
 </p>
 
 <h1 align="center">⚡ ᴊᴇꜱᴜꜱ-ᴍᴅ ᴠ1.0.0 — ᴘʀᴇꜱᴛɪɢᴇ ᴇᴅɪᴛɪᴏɴ</h1>
